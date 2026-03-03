@@ -1,4 +1,4 @@
-# 📈 Hybrid Quantum-Simulated Option Forecasting
+[# 📈 Hybrid Quantum-Simulated Option Forecasting
 **Q-volution Hackathon 2026: Option Pricing in Finance**
 
 ## 🚀 Project Overview
@@ -28,3 +28,4 @@ This solution is designed to be lightweight and fast, requiring no proprietary q
 1. **Install Dependencies:**
    ```bash
    pip install torch pandas scikit-learn openpyxl matplotlib
+](https://github.com/Kaustav-007/quantum-option-pricing-quandela-Qvolution2026)
