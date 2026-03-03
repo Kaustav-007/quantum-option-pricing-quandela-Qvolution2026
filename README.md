@@ -1,4 +1,4 @@
-[# 📈 Hybrid Quantum-Simulated Option Forecasting
+# 📈 Hybrid Quantum-Simulated Option Forecasting
 **Q-volution Hackathon 2026: Option Pricing in Finance**
 
 ## 🚀 Project Overview
