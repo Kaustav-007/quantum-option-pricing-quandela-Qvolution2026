@@ -1,8 +1,8 @@
 # 📈 Hybrid Quantum Option Forecasting with MerLin
-**Q-volution Hackathon 2026: Option Pricing in Finance**
+**Team Blochsquad | Q-volution Hackathon 2026: Option Pricing in Finance**
 
 ## 🚀 Project Overview
-This repository contains a high-performance **Hybrid Quantum Reservoir Computing (QRC)** solution designed for the rapid, multi-target forecasting of swaption and option prices. Built for the Quandela Q-volution Hackathon, this architecture leverages the principles of the **MerLin Quantum SDK** to address the high-volatility challenge of derivative pricing, mapping linear classical data into highly complex, non-linear quantum states.
+This repository contains a high-performance **Hybrid Quantum Reservoir Computing (QRC)** solution designed for the rapid, multi-target forecasting of swaption and option prices. Built by **Team Blochsquad** for the Quandela Q-volution Hackathon, this architecture leverages the principles of the **MerLin Quantum SDK** to address the high-volatility challenge of derivative pricing, mapping linear classical data into highly complex, non-linear quantum states.
 
 ## 🧠 Strategic Architecture (The MerLin Approach)
 Traditional Monte Carlo simulations struggle with the computational bottleneck of long-dated option pricing. Our architecture solves this using a "Best of Both Worlds" hybrid approach, heavily inspired by Quandela's photonic ecosystem:
